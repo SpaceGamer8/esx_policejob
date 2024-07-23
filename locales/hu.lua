@@ -17,7 +17,7 @@ Locales['hu'] = {
   ['open_armory'] = 'Nyomj [E] betüt, hogy hozzáférj: Fegyvertár.',
   ['armory_owned'] = 'saját',
   ['armory_free'] = 'ingyenes',
-  ['armory_item'] = '%s Ft',
+  ['armory_item'] = '0 Ft',
   ['armory_weapontitle'] = 'fegyvertár - vásárlás',
   ['armory_componenttitle'] = 'fegyvertár - kiegészitöks',
   ['armory_bought'] = 'vásároltál: %s ennyiért: ~r~%s Ft',
@@ -49,7 +49,7 @@ Locales['hu'] = {
   ['shop_item'] = '%s Ft',
   ['vehicleshop_title'] = 'Autó shop',
   ['vehicleshop_confirm'] = 'Meg szeretnéd venni?',
-  ['vehicleshop_bought'] = 'vásároltál %s ezért: ~r~%s Ft',
+  ['vehicleshop_bought'] = 'vásároltál %s ezért: 0 Ft',
   ['vehicleshop_money'] = 'Ezt nem engedheted meg.',
   ['vehicleshop_awaiting_model'] = 'A jármű LETÖLT & BETÖLT kérlek várj',
   ['confirm_no'] = 'nem',
@@ -66,7 +66,7 @@ Locales['hu'] = {
   ['service_out'] = 'elhagytad a szolgálatot.',
   ['service_out_announce'] = 'operátor %s leadta a szolgálatot.',
   -- Action Menu
-  ['menu_title'] = 'Police', --not translated
+  ['menu_title'] = 'cia', --not translated
   ['citizen_interaction'] = 'Ember interakciók',
   ['vehicle_interaction'] = 'Jármű interakciók',
   ['object_spawner'] = 'Objektum lerakása',
@@ -159,13 +159,13 @@ Locales['hu'] = {
   ['unrestrained_timer'] = '...',
   -- Notifications
   ['alert_police'] = 'riasztás',
-  ['phone_police'] = 'rendörség',
+  ['phone_police'] = 'cia',
   -- Keybind
   ['interaction'] = 'Interakció', --not translated
   ['quick_actions'] = 'Gyorsmenü', --not translated
   -- Other
-  ['society_police'] = 'Rendőrség', --not translated
+  ['society_police'] = 'cia', --not translated
   ['s_m_y_sheriff_01'] = 'Sheriff Ped', --not translated
-  ['s_m_y_cop_01'] = 'Rendőr Ped', -- not translated
+  ['s_m_y_cop_01'] = 'cia Ped', -- not translated
   ['s_m_y_swat_01'] = 'SWAT Ped', --not translated
 }
